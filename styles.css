@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.title {
+    font-family: 'Slabo 27px', serif;
+}
+
+.btn-add {
+    border: 1px solid #000;
+}
+
+.btn-sm {
+    border: 1px solid #000;
+}
